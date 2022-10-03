@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies.
+ Welid Adem
  */
 
 var app = require('./app');
